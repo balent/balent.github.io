@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Robert Balent Blog
 kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
+gems:
+  - jekyll-redirect-from
