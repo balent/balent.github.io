@@ -6,7 +6,7 @@ redirect_from:
   - /2014/05/open-source-projects-ive-contributed-to.html
 ---
 
-List of the open source projects I've contributed to. Specific commits are included.
+List of the open source projects I've contributed to incudes JBoss Forge, Apache ActiveMQ, JBoss ESB, Wicketstuff, Aesh, etc. See specific commits below.
 <!--more-->
 ### JBoss Forge [http://forge.jboss.org/](http://forge.jboss.org/)
 
