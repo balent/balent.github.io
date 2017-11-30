@@ -78,6 +78,10 @@ List of the open source projects I've contributed to incudes JBoss Forge, Apache
 * [https://issues.apache.org/jira/browse/AMQ-4258](https://issues.apache.org/jira/browse/AMQ-4258)
 * [https://github.com/apache/activemq/commit/77312e5a6487dd2bd384bf3cf167cef6b61aa658](https://github.com/apache/activemq/commit/77312e5a6487dd2bd384bf3cf167cef6b61aa658)
 
+##### [AMQ-4371] RSS and ATOM feeds doesn't work in web-console
+* [https://issues.apache.org/jira/browse/AMQ-4371](https://issues.apache.org/jira/browse/AMQ-4371)
+* [https://github.com/apache/activemq/commit/afc0220147fccfa6a4597cd0413f2e1cb02dea9d](https://github.com/apache/activemq/commit/afc0220147fccfa6a4597cd0413f2e1cb02dea9d)
+
 
 ### Wicketstuff - [http://wicketstuff.org/](http://wicketstuff.org/)
 
